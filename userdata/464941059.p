@@ -1,0 +1,14 @@
+(dp0
+VTEST2.SA
+p1
+V>5
+p2
+sS'EMBR3.SA'
+p3
+S'>30'
+p4
+sS'VVAR3.SA'
+p5
+S'>5'
+p6
+s.
